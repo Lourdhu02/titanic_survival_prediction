@@ -22,8 +22,8 @@ The objective of this project is to analyze the Titanic dataset, perform necessa
 To get started, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/yourrepositoryname.git
-cd yourrepositoryname
+git clone https://github.com/Lourdhu02/titanic_survival_prediction
+cd titanic_survival_prediction
 pip install -r requirements.txt
 ```
 
